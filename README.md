@@ -91,14 +91,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e futura Desenvolvedora 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=juliasouzatech&show_icons=true&theme=catppuccin_mocha&count_private=true&include_all_commits=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=juliasouzatech&show_icons=true&theme=neon&count_private=true&include_all_commits=true&locale=pt-br"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=juliasouzatech&layout=compact&theme=catppuccin_mocha&ount_private=true&include_all_commits=true&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=juliasouzatech&layout=compact&theme=neon&ount_private=true&include_all_commits=true&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
