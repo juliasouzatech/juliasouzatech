@@ -86,7 +86,20 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e futura Desenvolvedora 
 <br/>
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=juliasouzatech&show_icons=true&theme=dracula&count_private=true" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=juliasouzatech&layout=compact&theme=dracula" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=juliasouzatech&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=pt-br"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=juliasouzatech&layout=compact&theme=dracula&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
