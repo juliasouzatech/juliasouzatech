@@ -103,6 +103,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e futura Desenvolvedora 
 
 </p>
 
-## 🐍 Minhas contribuições
+
 
 ![Snake animation](https://github.com/juliasouzatech/juliasouzatech/blob/output/github-contribution-grid-snake.svg)
